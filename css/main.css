@@ -2852,4 +2852,9 @@ section,
 --------------------------------------------------------------*/
 .starter-section {
   /* Add your styles here */
+
+}
+[data-aos] {
+  opacity: 1 !important;
+  transform: none !important;
 }
